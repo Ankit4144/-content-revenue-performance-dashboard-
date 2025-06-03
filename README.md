@@ -9,17 +9,6 @@ These dashboards enable content teams and analysts to derive actionable insights
 
 ---
 
-## 📂 Datasets
-
-You can find the datasets used for the dashboards here:
-
-- [`Raw_genre.csv`](data/Raw_genre.csv)  
-  Theme-based sessions, total users, and conversion rates.
-
-- [`F1&Nascar Monthly Data - Sheet1.csv`](data/F1&Nascar%20Monthly%20Data%20-%20Sheet1.csv)  
-  Monthly revenue, views, and CTR metrics for F1 and NASCAR.
----
-
 ## 📊 Dashboard 1: Theme Performance
 
 ### 📸 Genre_1:
