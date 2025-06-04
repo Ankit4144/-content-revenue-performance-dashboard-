@@ -25,9 +25,9 @@ These dashboards enable content teams and analysts to derive actionable insights
 - **Slicers for Interaction**: Filter by category and theme.
 
 ### 🧠 Key Insights
-- **Top Converting Themes**: `Standings`, `Teams`, and `Kid`.
-- **Highest Volume Drivers**: `Gf`, `Generic`, `Kid`.
-- **Low Performers**: `Cars`, `Daughter`, and `Contract` underperform.
+- **Top Converting Themes**: Standings, Teams, and Kid.
+- **Highest Volume Drivers**: Gf, Generic, Kid.
+- **Low Performers**: Cars, Daughter, and Contract underperform.
 - **Seasonality**: Clear engagement spike in **May** and **November**.
 
 ---
